@@ -2,4 +2,4 @@
 Battery-RUL prediciton based on rnn &amp; fl
 
 
-datasetpath: https://pan.baidu.com/s/1EvwNNKTb_k8VuBPBj3XVXA code:8rtx
+datasetpath: https://github.com/PrinceXuan1/FL-Battery-RUL/releases/tag/dataset
